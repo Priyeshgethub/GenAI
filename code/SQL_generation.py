@@ -73,7 +73,7 @@ import uuid
 
 memory = SqliteSaver.from_conn_string(":memory:")
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'sk-qygX0yNo9GOjRgQT9skrAeYLWfiVkXFsrqjpCzvmKTT3BlbkFJvn6wnk0k8ls0T7y2G8QNF5yngkGSvmOfLTEKt0VDoA'
 os.environ['LANGCHAIN_TRACING_V2'] = "true"
 os.environ['LANGCHAIN_API_KEY'] = "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"
 
