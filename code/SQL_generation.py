@@ -47,7 +47,7 @@ from langchain_experimental.utilities import PythonREPL
 
 from langchain_community.utilities.sql_database import SQLDatabase
 from sqlalchemy import create_engine
-import pyodbc
+#import pyodbc
 
 from langchain_community.agent_toolkits import create_sql_agent
 from langchain_openai import ChatOpenAI
