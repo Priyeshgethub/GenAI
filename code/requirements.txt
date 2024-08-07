@@ -17,9 +17,6 @@ plotly==5.22.0
 nbformat==5.9.2
 ipykernel
 kaleido
-# These are not needed in the backend env just adding because requirement error is coming...
-clyent==1.2.1
-requests_mock
 
 
 
