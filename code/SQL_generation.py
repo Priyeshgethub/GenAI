@@ -67,8 +67,8 @@ from langchain_experimental.utilities import PythonREPL
 
 import base64
 from io import BytesIO
-from pydrive.auth import GoogleAuth
-from pydrive.drive import GoogleDrive
+#from pydrive.auth import GoogleAuth
+#from pydrive.drive import GoogleDrive
 import uuid
 
 memory = SqliteSaver.from_conn_string(":memory:")
