@@ -4,7 +4,7 @@ langchain==0.2.12
 langchain-openai==0.1.20
 langchain-community==0.2.11
 pyodbc==5.1.0
-libgraphviz-dev
+graphviz==0.20.3
 pygraphviz==1.13
 grandalf==0.8
 ipywidgets==7.7.1
