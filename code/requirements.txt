@@ -9,6 +9,17 @@ pygraphviz==1.13
 grandalf==0.8
 ipywidgets==7.7.1
 langchain-cohere==0.2.0
+pmdarima==2.0.4
+uvicorn==0.30.5
+fastapi==0.112.0
+matplotlib==3.9.1
+plotly==5.22.0
+nbformat==5.9.2
+ipykernel
+kaleido
+# These are not needed in the backend env just adding because requirement error is coming...
+clyent==1.2.1
+requests_mock
 
 
 
